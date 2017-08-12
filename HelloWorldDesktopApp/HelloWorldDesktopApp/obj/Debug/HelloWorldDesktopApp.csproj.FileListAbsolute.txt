@@ -1,0 +1,9 @@
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\HelloWorldDesktopApp\HelloWorldDesktopApp\bin\Debug\HelloWorldDesktopApp.exe.config
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\HelloWorldDesktopApp\HelloWorldDesktopApp\bin\Debug\HelloWorldDesktopApp.exe
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\HelloWorldDesktopApp\HelloWorldDesktopApp\bin\Debug\HelloWorldDesktopApp.pdb
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.csprojResolveAssemblyReference.cache
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.Properties.Resources.resources
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.csproj.GenerateResource.Cache
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.exe
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.pdb
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\HelloWorldDesktopApp\HelloWorldDesktopApp\obj\Debug\HelloWorldDesktopApp.MainForm.resources

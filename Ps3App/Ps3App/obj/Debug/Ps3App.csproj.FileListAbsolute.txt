@@ -1,0 +1,6 @@
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps3App\Ps3App\bin\Debug\Ps3App.exe.config
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps3App\Ps3App\bin\Debug\Ps3App.exe
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps3App\Ps3App\bin\Debug\Ps3App.pdb
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps3App\Ps3App\obj\Debug\Ps3App.csprojResolveAssemblyReference.cache
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps3App\Ps3App\obj\Debug\Ps3App.exe
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps3App\Ps3App\obj\Debug\Ps3App.pdb

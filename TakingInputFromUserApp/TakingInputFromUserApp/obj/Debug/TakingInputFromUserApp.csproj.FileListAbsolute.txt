@@ -1,0 +1,8 @@
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\TakingInputFromUserApp\TakingInputFromUserApp\bin\Debug\TakingInputFromUserApp.exe.config
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\TakingInputFromUserApp\TakingInputFromUserApp\bin\Debug\TakingInputFromUserApp.exe
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\TakingInputFromUserApp\TakingInputFromUserApp\bin\Debug\TakingInputFromUserApp.pdb
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\TakingInputFromUserApp\TakingInputFromUserApp\obj\Debug\TakingInputFromUserApp.MainUI.resources
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\TakingInputFromUserApp\TakingInputFromUserApp\obj\Debug\TakingInputFromUserApp.Properties.Resources.resources
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\TakingInputFromUserApp\TakingInputFromUserApp\obj\Debug\TakingInputFromUserApp.csproj.GenerateResource.Cache
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\TakingInputFromUserApp\TakingInputFromUserApp\obj\Debug\TakingInputFromUserApp.exe
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\TakingInputFromUserApp\TakingInputFromUserApp\obj\Debug\TakingInputFromUserApp.pdb

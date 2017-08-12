@@ -1,0 +1,6 @@
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps1App\Ps1App\bin\Debug\Ps1App.exe.config
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps1App\Ps1App\obj\Debug\Ps1App.csprojResolveAssemblyReference.cache
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps1App\Ps1App\bin\Debug\Ps1App.exe
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps1App\Ps1App\bin\Debug\Ps1App.pdb
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps1App\Ps1App\obj\Debug\Ps1App.exe
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps1App\Ps1App\obj\Debug\Ps1App.pdb

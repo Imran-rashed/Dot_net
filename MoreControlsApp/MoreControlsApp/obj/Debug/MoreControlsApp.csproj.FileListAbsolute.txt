@@ -1,0 +1,8 @@
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\MoreControlsApp\MoreControlsApp\bin\Debug\MoreControlsApp.exe.config
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\MoreControlsApp\MoreControlsApp\bin\Debug\MoreControlsApp.exe
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\MoreControlsApp\MoreControlsApp\bin\Debug\MoreControlsApp.pdb
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\MoreControlsApp\MoreControlsApp\obj\Debug\MoreControlsApp.MainUI.resources
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\MoreControlsApp\MoreControlsApp\obj\Debug\MoreControlsApp.Properties.Resources.resources
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\MoreControlsApp\MoreControlsApp\obj\Debug\MoreControlsApp.csproj.GenerateResource.Cache
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\MoreControlsApp\MoreControlsApp\obj\Debug\MoreControlsApp.exe
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\MoreControlsApp\MoreControlsApp\obj\Debug\MoreControlsApp.pdb

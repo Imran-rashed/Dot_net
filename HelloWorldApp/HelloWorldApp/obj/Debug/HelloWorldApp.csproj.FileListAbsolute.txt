@@ -1,0 +1,6 @@
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csprojResolveAssemblyReference.cache
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb

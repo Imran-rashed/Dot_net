@@ -1,0 +1,6 @@
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps4App\Ps4App\bin\Debug\Ps4App.exe.config
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps4App\Ps4App\obj\Debug\Ps4App.csprojResolveAssemblyReference.cache
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps4App\Ps4App\bin\Debug\Ps4App.exe
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps4App\Ps4App\bin\Debug\Ps4App.pdb
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps4App\Ps4App\obj\Debug\Ps4App.exe
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps4App\Ps4App\obj\Debug\Ps4App.pdb

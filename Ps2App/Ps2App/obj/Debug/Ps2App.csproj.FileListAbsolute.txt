@@ -1,0 +1,5 @@
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps2App\Ps2App\bin\Debug\Ps2App.exe.config
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps2App\Ps2App\bin\Debug\Ps2App.exe
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps2App\Ps2App\bin\Debug\Ps2App.pdb
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps2App\Ps2App\obj\Debug\Ps2App.exe
+C:\Users\Rashed\Documents\Visual Studio 2013\Projects\Ps2App\Ps2App\obj\Debug\Ps2App.pdb
